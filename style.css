@@ -9,11 +9,12 @@ aside {
     padding: 20px;
     background-color: #eee;
     color: #333;
+    text-align: center;
 }
 
 aside img {
     width: 200px;
-    height: auto;
+    height: auto
 }
 
 main img {
